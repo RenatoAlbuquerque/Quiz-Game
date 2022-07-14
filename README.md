@@ -74,7 +74,7 @@ $ npm start
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[React Countdown Circle Timer](react-countdown-circle-timer)**
 
-> Veja o arquivo [package.json]()
+> Veja o arquivo [package.json](https://github.com/RenatoAlbuquerque/Quiz-Game/blob/main/package.json)
 
 ```
 
